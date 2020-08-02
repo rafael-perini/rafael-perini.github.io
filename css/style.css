@@ -107,6 +107,15 @@ a {
   padding: 20px 30%;
 }
 
+.recreation .section-container .section-content {
+  transform: translate(-50%, -50%);
+  position: absolute;
+  min-width: 300px;
+  width: 30%;
+  left: 50%;
+  top: 50%;
+}
+
 /* Footer */
 .footer {
   background-color: #ffffff;
